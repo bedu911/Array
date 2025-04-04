@@ -1,4 +1,4 @@
-//  Traversing a 1D Array in C
+//  Traversing a 1D Array 
 #include<stdio.h>
 //Function To Take Data From User
 void input(int a[],int n) 
